@@ -15,3 +15,7 @@
 5-All plugin here using the last version
 
 6-The App have some animation
+
+You can check the output from the below link (Mobile & Web):
+https://drive.google.com/drive/folders/1fr-sPwB27n_DgrG_lXJCKsXrKyd-DGt4
+
