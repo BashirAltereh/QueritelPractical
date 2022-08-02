@@ -1,16 +1,17 @@
 # pets_exercise
 
-A new Flutter project.
+1-There are three base layers
+  *BLoC layer to state management using 'rxdart'
+  *API layer to get APIs response
+  *UI layer for displaying
+  *There are some helpers classes to make clean code and to don't repeat any code twice
 
-## Getting Started
+2-This project using Flutter 3.0.2 (Web & Android)
 
-This project is a starting point for a Flutter application.
+3-This project using BLoC statement management
 
-A few resources to get you started if this is your first Flutter project:
+4-I used ' https://mocki.io' to get APIs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+5-All plugin here using the last version
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+6-The App have some animation
