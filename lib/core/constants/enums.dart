@@ -1,0 +1,1 @@
+enum PetType { cats, dogs }
